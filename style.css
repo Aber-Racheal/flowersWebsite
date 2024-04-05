@@ -120,8 +120,13 @@ width: 50%;
 
 #sale{
     font-size: 50px;
-    
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
+#store{
+    color: gray;
+
 }
 
 .GrowOrchid{
@@ -129,6 +134,11 @@ width: 50%;
     
 }
 
+#discount{
+    font-size: 30px;
+    color: gray;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
 
 #grow-word{
 font-size: 30px;
@@ -136,6 +146,11 @@ font-weight: bold;
 
 }
 
+
+#house-plants{
+    color: black;
+    font-weight: bold;
+}
 
 .SALE{
     display: flex;
