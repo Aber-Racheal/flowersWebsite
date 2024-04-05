@@ -1,0 +1,529 @@
+.welcome{
+    display: flex;
+    background-color: rgb(58, 146, 58);
+    justify-content: space-between;
+    color: whitesmoke;
+
+}
+
+#eng{
+    margin-right: 0%;
+}
+
+
+#login{
+    text-align: end;
+}
+
+
+
+
+
+
+
+#vall{
+    font-weight: bold;
+    font-size: 40px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+
+
+ul li{
+    color: rgb(77, 74, 74);
+    font-weight: bold;
+}
+
+#home{
+    color: green;
+}
+
+#fall{
+    font-size: 20px;
+    text-align: center;
+    
+
+}
+
+
+
+#flowe{
+width: 50%;
+}
+
+
+#terra{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bolder;
+    font-size: 40px;
+    text-align: center;
+}
+
+.top-icon{
+    display: flex;
+    gap: 40px;
+}
+.VALLONA{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 5%;
+}
+
+
+.VALLONA ul{
+    display: flex;
+    gap: 50px;
+}
+
+
+.VALLONA ul li{
+    list-style-type: none;
+    
+}
+
+
+#icon{
+    width: 30px;
+    margin-top: 5%;
+}
+
+
+.FALL-SUMMER{
+
+    display: flex;
+    justify-content: center;
+    
+}
+
+.Terradium{
+    background-image: url('./flowerMedia/teras.jpeg');
+    height: 500px;
+    width: 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.Inspi{
+    display: flex;
+    flex-direction: column;
+}
+
+
+
+.Inspiration{
+    display: flex;
+    
+   
+}
+
+
+#sale{
+    font-size: 50px;
+    
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.GrowOrchid{
+    display: flex;
+    
+}
+
+
+#grow-word{
+font-size: 30px;
+font-weight: bold;
+
+}
+
+
+.SALE{
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+}
+
+#cactus{
+    width: 50%;
+}
+#prices1{
+font-size: 20px;
+font-weight: bold;
+color: green;
+}
+
+
+
+
+/* All Plants */
+
+
+.All-Plants{
+    display: flex;
+justify-content: center;gap: 70px;
+color: black;
+font-size: 50px;
+}
+
+
+.BigDiv{
+display: flex;
+justify-content: center;
+gap: 280px;
+}
+
+.SmallDiv{
+    display: flex;
+}
+
+#big{
+    width: 590px;
+}
+
+#bigprice{
+    color: green;
+    font-size: xx-large;
+}
+#shopnow{
+    background-color: rgb(10, 153, 10);
+    font-size: larger;
+    font-weight: bold;
+    border-radius: 15%;
+    height: 60px;
+    width: 30%;
+    border: 2px solid green;
+    color: whitesmoke;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.tree-in-bottle{
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+}
+
+.featured{
+    text-align: center;
+    margin: 5%;
+    font-size: 50px;
+
+}
+
+#thebest{
+    color: green;
+    font-size: large;
+}
+
+
+#TreeTitle{
+    font-size: 50px;
+
+}
+
+
+#In-an-ideal{
+    color: gray;
+    font-size: medium;
+}
+
+
+#Category{
+    color: black;
+}
+
+
+
+
+#table{
+    color: gray;
+}
+
+
+
+
+
+
+/* LIVING THING GROWS */
+
+.livingthingsgrow{
+    background-image: url('./flowerMedia/livinggrow.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 400px;
+    
+    
+}
+
+
+#shopnow1{
+    width: 15%;
+    height: 50px;
+    border-radius: 5px;
+    border: green solid 2px;
+    background-color: green;
+    color: whitesmoke;
+    font-weight: bold;
+    
+}
+
+
+
+.buttons{
+    margin-left: 40%;
+}
+
+#living{
+    font-size: 40px;
+    text-align: center;
+    font-weight: 500;
+    margin-top: 5%;
+}
+
+#You-have{
+    text-align: center;
+    color: rgb(37, 37, 37);
+    font-weight: 600;
+
+}
+#dollar{
+    color: green;
+
+}
+
+#prices{
+    text-align: center;
+    font-weight: bold;
+    font-size: xx-large;
+    color: rgb(66, 65, 65);
+}
+
+
+
+
+
+
+
+/* Amazing spring */
+
+
+.amazing-spring{
+
+    display: flex;
+    justify-content: space-between;
+    margin: 10%;
+
+}
+
+
+
+#price{
+    color: green;
+    text-align: center;
+}
+
+
+
+
+
+/* cactus tree */
+
+
+.cactus-tree{
+    display: flex;
+    justify-content: center;
+    justify-content: space-between;
+    margin-left: 10%;
+    margin-right: 10%;
+
+}
+
+
+#cactus{
+    font-size: 50px;
+}
+
+
+#incred-para{
+    font-size: large;
+    color: rgb(71, 70, 70);
+}
+
+
+
+#cactusfour{
+object-fit: cover;
+width: 100%;
+margin-left: 0%;
+}
+
+
+
+
+/* Latest blogs */
+
+
+#Latest{
+font-size: 50px;
+text-align: center;
+
+}
+
+
+
+
+.latestBlogs{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 5%;
+    gap: 20px;
+}
+
+
+.profilediv{
+    display: flex;
+}
+
+
+#profile{
+    width: 40%;
+}
+
+
+#jinos{
+    color: green;
+    margin-top: 0%;
+}
+
+
+
+#we-love{
+font-size: 50px;
+text-align: center;
+}
+
+
+#the-best{
+text-align: center;
+color: green;
+font-size: xx-large;
+}
+
+
+
+
+
+
+
+
+
+.best-testimonials{
+display: flex;
+justify-content: center;
+justify-content: space-between;
+margin-left: 10%;
+margin-right: 10%;
+}
+
+
+
+
+
+
+
+
+
+/*  footer*/
+
+.footer{
+    display: flex;
+    justify-content: center;
+    justify-content: space-between;
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-top: 5%;
+}
+
+
+.icons-footer{
+display: flex;
+gap: 0px;
+
+}
+
+
+#icons{
+    width: 30%;
+    margin-top: 5%;
+}
+
+
+#good{
+    text-align: center;
+    margin-top: 5%;
+}
+
+
+
+#email{
+    margin-bottom: 4%;
+    border: rgb(184, 181, 181) 2px solid;
+    box-shadow: 2px;
+    background-color: rgb(248, 238, 238);
+    width: 80%;
+    height: 50px;
+    color: rgb(107, 105, 105);
+}
+
+
+
+#subscribe{
+    margin-bottom: 4%;
+    border: rgb(184, 181, 181) 2px solid;
+    box-shadow: 2px;
+    background-color:rgb(31, 189, 31);
+    width: 80%;
+    height: 50px;
+    color:whitesmoke;
+    font-weight: bold;
+}
+
+
+
+#Cristina{
+    color: rgb(76, 236, 76);
+    text-align: center;
+}
+
+#Developer{
+    color: gray;
+}
+
+
+#foothead{
+
+    font-weight: bolder;
+    font-size: 25px;
+}
+
+
+.content{
+    color: rgb(104, 98, 98);
+}
+
+
+#end{
+    color: gray;
+    text-align: center;
+}
