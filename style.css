@@ -576,3 +576,620 @@ gap: 0px;
     color: gray;
     text-align: center;
 }
+
+
+
+
+@media all and (min-width:280px) and (max-width-width:1024px){
+
+
+    body{
+        font-size: 12px;
+    }
+    
+    .welcome{
+        display: flex;
+        flex-direction: column;
+        background-color: rgb(58, 146, 58);
+        /* justify-content: space-between; */
+        color: whitesmoke;
+    
+    }
+    
+    #eng{
+        margin-right: 0%;
+    }
+    
+    
+    #login{
+        text-align: end;
+    }
+    
+    
+    
+    
+    
+    
+    
+    #vall{
+        font-weight: bold;
+        font-size: 40px;
+        font-family: 'Courier New', Courier, monospace;
+    }
+    
+    
+    ul{
+        margin-right: 0%;
+    }
+
+
+    ul li{
+        color: rgb(77, 74, 74);
+        font-weight: bold;
+        margin-right: 0%;
+    }
+    
+    #home{
+        color: green;
+    }
+    
+    #fall{
+        font-size: 20px;
+        text-align: center;
+        
+    
+    }
+    
+    
+    
+    #flowe{
+    width: 15%;
+    }
+    
+    
+    #flowe1{
+        width: 15%;
+        margin-left: 5%;
+        }
+    
+    
+    #terra{
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        font-weight: bolder;
+        font-size: 20px;
+        text-align: center;
+    }
+    
+    .top-icon{
+        display: flex;
+        gap: 20px;
+    }
+    .VALLONA{
+        display: flex;
+        justify-content: space-between;
+        margin-top: 5%;
+        flex-direction: column;
+    }
+    
+    
+    .VALLONA ul{
+        display: flex;
+        flex-direction: column;
+        gap: 20px;
+    }
+    
+    
+    .VALLONA ul li{
+        list-style-type: none;
+        
+    }
+    
+    
+    #icon{
+        width: 15px;
+        margin-top: 3%;
+    }
+    
+    
+    .FALL-SUMMER{
+    
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        
+    }
+    
+    .Terradium{
+        background-image: url('./flowerMedia/teras.jpeg');
+        height: 250px;
+        width: 20%;
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+    
+    
+    /* .Inspi{
+        display: flex;
+        flex-direction: column;
+    } */
+    
+    
+    
+    .Inspiration{
+        display: flex;
+        flex-direction: column;
+        gap: 15px;
+        margin-top: 2%;
+    }
+    
+    #sale{
+        font-size: 25px;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    }
+    
+    
+    #store{
+        color: gray;
+    
+    }
+    
+    .GrowOrchid{
+        display: flex;
+        flex-direction: column;
+        
+        
+    }
+    
+    #discount{
+        font-size: 15px;
+        color: gray;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    }
+    
+    #grow-word{
+    font-size: 15px;
+    font-weight: bold;
+    
+    }
+    
+    
+    #house-plants{
+        color: black;
+        font-weight: bold;
+    }
+    
+    .SALE{
+        display: flex;
+        flex-direction: column;
+        gap: 20px;
+        justify-content: center;
+        margin-top: 5%;
+    }
+    
+    #cactus{
+        width: 20%;
+    }
+    #prices1{
+    font-size: 20px;
+    font-weight: bold;
+    color: green;
+    }
+    
+    
+    
+    
+    /* All Plants */
+    
+    
+    .All-Plants{
+        display: flex;
+    justify-content: center;gap: 70px;
+    color: black;
+    font-size: 50px;
+    margin-top: 5%;
+    }
+    
+    
+    .BigDiv{
+    display: flex;
+    flex-direction: column;
+    /* justify-content: center; */
+    gap: 100px;
+    }
+    
+    .SmallDiv{
+        display: flex;
+    }
+    
+    #big{
+        width: 300px;
+    }
+    
+    #bigprice{
+        color: green;
+        font-size: xx-large;
+    }
+    #shopnow{
+        background-color: rgb(10, 153, 10);
+        font-size: larger;
+        font-weight: bold;
+        border-radius: 5%;
+        height: 30px;
+        width: 15%;
+        border: 2px solid green;
+        color: whitesmoke;
+        cursor: pointer;
+    }
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    .tree-in-bottle{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        gap: 100px;
+        margin: 5%;
+    
+    }
+    
+    .featured{
+        text-align: center;
+        margin: 5%;
+        margin-right: 0%;
+        font-size: 20px;
+    
+    }
+    
+    #thebest{
+        color: green;
+        font-size: large;
+    }
+    
+    
+    #TreeTitle{
+        font-size: 20px;
+    
+    }
+    
+    
+    #In-an-ideal{
+        color: gray;
+        font-size: medium;
+    }
+    
+    
+    #Category{
+        color: black;
+    }
+    
+    
+    
+    
+    #table{
+        color: gray;
+    }
+    
+    
+    
+    
+    
+    
+    /* LIVING THING GROWS */
+    
+    .livingthingsgrow{
+        background-image: url('./flowerMedia/livinggrow.jpeg');
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 200px;
+        margin: 5%;
+        border-radius: 5%;
+        
+        
+    }
+    
+    
+    #shopnow1{
+        width: 7%;
+        height: 25px;
+        border-radius: 5px;
+        border: green solid 2px;
+        background-color: green;
+        color: whitesmoke;
+        font-weight: bold;
+        
+    }
+    
+    
+    
+    .buttons{
+        margin-left: 20%;
+    }
+    
+    #living{
+        font-size: 20px;
+        text-align: center;
+        font-weight: 500;
+        margin-top: 2%;
+    }
+    
+    #You-have{
+        text-align: center;
+        color: rgb(37, 37, 37);
+        font-weight: 600;
+    
+    }
+    #dollar{
+        color: green;
+    
+    }
+    
+    #prices{
+        text-align: center;
+        font-weight: bold;
+        font-size: xx-large;
+        color: rgb(66, 65, 65);
+    }
+    
+    
+    
+    
+    
+    
+    
+    /* Amazing spring */
+    
+    
+    .amazing-spring{
+    
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        margin: 5%;
+    
+    }
+    
+    
+    
+    #price{
+        color: green;
+        text-align: center;
+    }
+    
+    
+    
+    
+    
+    /* cactus tree */
+    
+    
+    .cactus-tree{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        /* justify-content: space-between; */
+        margin-left: 5%;
+        margin-right: 5%;
+        gap: 300px;
+    
+    }
+    
+    
+    #cactus{
+        font-size: 20px;
+    }
+    
+    
+    #incred-para{
+        font-size:large;
+        color: rgb(71, 70, 70);
+        text-align: start;
+    }
+    
+    
+    
+    #cactusfour{
+    object-fit: cover;
+    width: 50%;
+    margin-left: 0%;
+    }
+    
+    
+    
+    
+    /* Latest blogs */
+    
+    #month{
+        color: green;
+    }
+    
+    
+    
+    #urban{
+        font-weight: 500;
+        font-size: x-large;
+    }
+    #Latest{
+    font-size: 50px;
+    text-align: center;
+    margin-top: 5%;
+    
+    }
+    
+    #para{
+        color: rgb(73, 71, 71);
+    }
+    
+    
+    
+    .latestBlogs{
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        margin-left: 5%;
+        margin-right: 5%;
+        margin-top: 2%;
+        gap: 10px;
+    }
+    
+    
+    .profilediv{
+        display: flex;
+        flex-direction: column;
+    }
+    
+    
+    #profile{
+        width: 20%;
+    }
+    
+    
+    #jinos{
+        color: green;
+        margin-top: 0%;
+    }
+    
+    
+    
+    #we-love{
+    font-size: 20px;
+    text-align: center;
+    }
+    
+    
+    #the-best{
+    text-align: center;
+    color: green;
+    font-size: xx-large;
+    }
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    .best-testimonials{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    justify-content: space-between;
+    margin-left: 5%;
+    margin-right: 5%;
+    }
+    
+    
+    #imagez{
+    border-radius: 10px;
+    width: 20%;
+    }
+    
+    
+    
+    
+    
+    
+    
+    
+    /*  footer*/
+    
+    .footer{
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+        justify-content: space-between;
+        margin-left: 7%;
+        margin-right: 7%;
+        margin-top: 3%;
+    }
+    
+    
+    .icons-footer{
+    display: flex;
+    flex-direction: column;
+    gap: 0px;
+    
+    }
+    
+    
+    #icons{
+        width: 15%;
+        margin-top: 2%;
+    }
+    
+    
+    #good{
+        text-align: center;
+        margin-top: 2%;
+    }
+    
+    
+    
+    #email{ 
+        margin-bottom: 4%;
+        border: rgb(184, 181, 181) 2px solid;
+        box-shadow: 2px;
+        background-color: rgb(248, 238, 238);
+        width: 40%;
+        height: 20px;
+        color: rgb(107, 105, 105);
+    }
+    
+    
+    
+    #subscribe{
+        margin-bottom: 2%;
+        border: rgb(184, 181, 181) 2px solid;
+        box-shadow: 2px;
+        background-color:rgb(31, 189, 31);
+        width: 40%;
+        height: 30px;
+        color:whitesmoke;
+        font-weight: bold;
+        cursor: pointer;
+    }
+    
+    
+    
+    #Cristina{
+        color: rgb(76, 236, 76);
+        text-align: center;
+        cursor: pointer;
+    }
+    
+    #Developer{
+        color: gray;
+    }
+    
+    
+    #foothead{
+    
+        font-weight: bolder;
+        font-size: 25px;
+    }
+    
+    
+    .content{
+        color: rgb(104, 98, 98);
+    }
+    
+    
+    #end{
+        color: gray;
+        text-align: center;
+    }
+    
+    
+
+
+}
